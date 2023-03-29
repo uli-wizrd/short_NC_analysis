@@ -7,7 +7,7 @@ I'm aware that there's information out there about the reasons behind these patt
 So the idea here is just to "find out what's going on" with the digits of natural constants like Pi, Phi, e and sqrt(2). Also I'll be using my newly acquired data analyst skills.
 
 
-##The questions to be answered
+## The questions to be answered
 
 -Is there a tendency to these XYX patterns in the constants? 
   
@@ -25,15 +25,15 @@ So the idea here is just to "find out what's going on" with the digits of natura
 -Is there an X value that appears more often than others in these 240 digits? If so, Does it remain that way in 1234 digits?
 -Is there a Y value that appears more often than othersin these 240 digits? Does it remain that way in 1234 digits?
 
-##Preparing the constants
+## Preparing the constants
 
 We have to have a way to get all of these decimal digits, to achieve this I used the information provided in [link] where the library [] is mentioned as a way to get these constants to a precision specified by the user. 
 
-##Processing the digits
+## Processing the digits
 
 I created a process that takes the decimal point away, transforms the float value into a text string type, then it transforms this value into a list of all the digits that composed the string value, after this every value in the list is transformed into an integer using the map function and to complete our digit list we insert in it some digits we had to convert into integers separately.
 
-##Analizing the digits
+## Analizing the digits
   
 1.- I started this process by creating a function that counts how many times a digit between 0-9 appears in the sequence inside the list created in the previous phase and create a summarized list of the frequency for every digit in the list. Also I use a simple sorting algorithm on my digit frequency list to give it an ascending order.
 
