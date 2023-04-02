@@ -6,7 +6,7 @@ I'm aware that there's information out there about the reasons behind these patt
 
 So the idea here is just to "find out what's going on" with the digits of natural constants like Pi, Phi, e and sqrt(2). Also I'll be using my newly acquired data analyst skills.<br>
 
-Also before we begin, you can answer these questions too using the Jupyter notebook I created for this project named: < href="https://github.com/uli-wizrd/short_NC_analysis/blob/main/NDS_p1.ipynb" target="_blank"> Answers <a>.<br> 
+Also before we begin, you can answer these questions too using the Jupyter notebook I created for this project named: <a href="https://github.com/uli-wizrd/short_NC_analysis/blob/main/NDS_p1.ipynb" target="_blank"> Answers <a>.<br> 
 
 ## The questions to be answered
 
