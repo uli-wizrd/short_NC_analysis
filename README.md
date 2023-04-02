@@ -10,37 +10,21 @@ Also before we begin, you can answer these questions too using the Jupyter noteb
 
 ## The questions to be answered
 
--Is there a tendency to these XYX patterns in the first 1000 digits of the constants?<br> 
-
-    No, even common XYX patterns happen a small number of times, and they appear at irregular intervals.<br> 
+- Is there a tendency to these XYX patterns in the first 1000 digits of the constants? No, even common XYX patterns happen a small number of times, and they appear at irregular intervals.<br> 
   
-  -Do the gaps between each XYX pattern become larger the more digits we have or viceversa?<br>
- 
-    No in both cases, however there's always a sudden jump in gap size that does seem to increase the more digits we include.<br>
+  - Do the gaps between each XYX pattern become larger the more digits we have or viceversa? No in both cases, however there's always a sudden jump in gap size that does seem to increase the more digits we include.<br>
 
--Does one digit appear more often than others?<br>
-
-  No, they all appear almost the same amount of times the more digits we add.<br>
+  - Does one digit appear more often than others? No, they all appear almost the same amount of times the more digits we add.<br>
   
-  - How does the digit distribution behave in the first 240 digits of these constants?<br>
+- How does the digit distribution behave in the first 240 digits of these constants? Almost uniformly.<br>
+
+- How does the proportion of digits in XYX patterns behave as we approach 240 digits in these constants? At least in that interval there's some digits that appear more often than others.<br>
   
-    Almost uniformly.<br>
-
--How does the proportion of digits in XYX patterns behave as we approach 240 digits in these constants?<br>
-
-  At least in that interval there's some digits that appear more often than others.<br>
+- Is there a XYX pattern that appears more often than others in these 240 digits? If so, Does it remain that way in 1000 digits? There's, but at 1000 digits it changes.<br>
   
--Is there a XYX pattern that appears more often than others in these 240 digits? If so, Does it remain that way in 1000 digits?<br>
-
-  There's, but at 1000 digits it changes.<br>
+- Is there an X value that appears more often than others in these 240 digits? If so, Does it remain that way in 1000 digits? There's, but it doesn't remain at 1000 digits.<br>
   
--Is there an X value that appears more often than others in these 240 digits? If so, Does it remain that way in 1000 digits?<br>
-
-  There's, but it doesn't remain at 1000 digits.<br>
-  
--Is there a Y value that appears more often than othersin these 240 digits? Does it remain that way in 1000 digits?<br>
-
-  There's, but it doesn't remain as we increase the number of digits.<br>
+- Is there a Y value that appears more often than othersin these 240 digits? Does it remain that way in 1000 digits? There's, but it doesn't remain as we increase the number of digits.<br>
   
 ## Preparing the constants
 
