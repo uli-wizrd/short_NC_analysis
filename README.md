@@ -6,7 +6,7 @@ I'm aware that there's information out there about the reasons behind these patt
 
 So the idea here is just to "find out what's going on" with the digits of natural constants like Pi, Phi, e and sqrt(2). Also I'll be using my newly acquired data analyst skills.<br>
 
-Also before we begin, you can answer these questions too using the Jupyter notebook I created for this project named: <a href="https://github.com/uli-wizrd/short_NC_analysis/blob/main/NDS_p1.ipynb" target="_blank"> Answers <a>.<br> 
+Also before we begin, you can answer these questions too using the Jupyter notebook I created for this project: <a href="https://github.com/uli-wizrd/short_NC_analysis/blob/main/NDS_p1_ENG.ipynb" target="_blank"> Answers part 1 <a> and if you want to see the code I used to make the animations you can view it right here: <a href="https://github.com/uli-wizrd/short_NC_analysis/blob/main/NDS_p2_ENG.ipynb" target="_blank"> Answers part 2 <a> .<br> 
 
 ## The questions to be answered
 
@@ -72,9 +72,8 @@ I believe letting your curiosity guide you to new places can teach you about pro
 
 In order to make the following project I used the following resources, so if you like what you see here please be sure to check them out. They're amaaaaazing!
 
-1.-
-2.-
-3.-
-4.-
-5.-
-6.-
+1.-<a href = 'pandas - Python Data Analysis Library. (n.d.). https://pandas.pydata.org/' > Pandas <a>
+2.-<a href='NumPy. (n.d.). https://numpy.org/'> Numpy <a>
+3.-<a href='Basic usage — mpmath 1.3.0 documentation. (n.d.). https://mpmath.org/doc/current/basics.html#number-types> mp math <a>
+4.-<a href='Color — Matplotlib 3.7.1 documentation. (n.d.). https://matplotlib.org/stable/gallery/color/index.html'> matplotlib <a>
+5.-<a href='Craig, J. C. (2022, January 7). Baking 1000 Digits of Pi from 3 Small Lines of Python. Medium. https://jccraig.medium.com/baking-1000-digits-of-pi-from-3-small-lines-of-python-579da9c3bc49'> Baking digits of Pi <a>
