@@ -72,8 +72,8 @@ I believe letting your curiosity guide you to new places can teach you about pro
 
 In order to make the following project I used the following resources, so if you like what you see here please be sure to check them out. They're amaaaaazing!
 
-1.- d <a href="https://pandas.pydata.org/" target="_blank"> Pandas <a> <br>
-2.- d <a href="https://numpy.org/" target="_blank"> Numpy <a> <br>
-3.- d <a href="https://mpmath.org/doc/current/basics.html#number-types" target="_blank"> mp math <a> <br>
-4.- d <a href="https://matplotlib.org/stable/gallery/color/index.html" target="_blank"> Matplotlib <a> <br>
-5.- d <a href="https://jccraig.medium.com/baking-1000-digits-of-pi-from-3-small-lines-of-python-579da9c3bc49" target="_blank"> Baking digits of Pi <a>
+1.- Library <a href="https://pandas.pydata.org/" target="_blank"> Pandas <a> <br>
+2.- Library <a href="https://numpy.org/" target="_blank"> Numpy <a> <br>
+3.- Library <a href="https://mpmath.org/doc/current/basics.html#number-types" target="_blank"> mp math <a> <br>
+4.- Library <a href="https://matplotlib.org/stable/gallery/color/index.html" target="_blank"> Matplotlib <a> <br>
+5.- Article <a href="https://jccraig.medium.com/baking-1000-digits-of-pi-from-3-small-lines-of-python-579da9c3bc49" target="_blank"> Baking digits of Pi <a>
