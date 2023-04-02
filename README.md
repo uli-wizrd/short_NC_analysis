@@ -36,17 +36,17 @@ I created a process that takes the decimal point away, transforms the float valu
 
 ## Analizing the digits
   
-1.- I started this process by creating a function that counts how many times a digit between 0-9 appears in the sequence inside the list created in the previous phase and create a summarized list of the frequency for every digit in the list. Also I use a simple sorting algorithm on my digit frequency list to give it an ascending order.
+1.- I started this process by creating a function that counts how many times a digit between 0-9 appears in the sequence inside the list created in the previous phase and create a summarized list of the frequency for every digit in the list. Also I use a simple sorting algorithm on my digit frequency list to give it an ascending order.<br>
 
-2.- After determining the frequency of the digits, I create a function to determine the average of the frequency and the standard deviation of the frequency values.
+2.- After determining the frequency of the digits, I create a function to determine the average of the frequency and the standard deviation of the frequency values.<br>
 
-3.- I then created a process that counts how many digits pass before we have a set of values with the XYX pattern, this way we obtain the distribution of gaps in the sequence and the list of the XYX patterns.
+3.- I then created a process that counts how many digits pass before we have a set of values with the XYX pattern, this way we obtain the distribution of gaps in the sequence and the list of the XYX patterns.<br>
 
-4.-Next I create a process to determine how many digits appear in the sequence with the XYX pattern and how many remain without that pattern, in this step I also determine the average of the gap size and its standard deviation.
+4.-Next I create a process to determine how many digits appear in the sequence with the XYX pattern and how many remain without that pattern, in this step I also determine the average of the gap size and its standard deviation.<br>
 
-5.-Finally I create a process that counts how many times a pattern appears, how many and what values appear as X and Y in the XYX pattern.
+5.-Finally I create a process that counts how many times a pattern appears, how many and what values appear as X and Y in the XYX pattern.<br>
 
-6.-To end things I use the functions that determine the average and standard deviation to see how these values change for the amount of digits in and out of XYX patters as we increase digits steadily to a number specified by the user.
+6.-To end things I use the functions that determine the average and standard deviation to see how these values change for the amount of digits in and out of XYX patters as we increase digits steadily to a number specified by the user.<br>
 
 ## Visualizations
 
