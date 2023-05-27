@@ -60,7 +60,7 @@ I created a process that takes the decimal point away, transforms the float valu
 
 ## Sharing my findings
 
-Though the following repositorie and social media I've shared the answers to my initial questions, also I take the time to mention other things one can say and ask about the digits within these sequences.<br>
+Though the following repository and social media I've shared the answers to my initial questions, also I take the time to mention other things one can say and ask about the digits within these sequences.<br>
 
 ## Acting
 
