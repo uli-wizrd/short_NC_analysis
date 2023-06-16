@@ -53,10 +53,10 @@ I created a process that takes the decimal point away, transforms the float valu
 1.-Bar graph and pie graph to view digit frequency distribution in the sequence analyzed.<br>
 2.-Line graph to view the change in gap distance.<br>
 3.-Line graph to view the evolution of the average gap distance and it's standard deviation.<br>
-4.-Line graph to view the evolution of the amount of digits in XYX patterns.
-5.-line graph to view the evolution of the percetages of digits in the pattern and digits not in the pattern.
-6.-Bar graph to view the top 5 most popular patterns in the sequence for the amount of digits specified.
-7.-Bar graph to view the the frequency of the X values and Y values in the XYX patterns
+4.-Line graph to view the evolution of the amount of digits in XYX patterns.<br>
+5.-line graph to view the evolution of the percetages of digits in the pattern and digits not in the pattern.<br>
+6.-Bar graph to view the top 5 most popular patterns in the sequence for the amount of digits specified.<br>
+7.-Bar graph to view the the frequency of the X values and Y values in the XYX patterns.<br>
 
 ## Sharing my findings
 
