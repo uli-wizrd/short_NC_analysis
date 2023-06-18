@@ -58,6 +58,45 @@ I created a process that takes the decimal point away, transforms the float valu
 6.-Bar graph to view the top 5 most popular patterns in the sequence for the amount of digits specified.<br>
 7.-Bar graph to view the the frequency of the X values and Y values in the XYX patterns.<br>
 
+## Animations
+
+1.- Gaps between XYX patterns.<br>
+
+Natural constant: e.<br>
+
+![](https://github.com/uli-wizrd/short_NC_analysis/blob/main/gifs/e_pat.gif)
+
+Natural constant: Pi.<br>
+![](https://github.com/uli-wizrd/short_NC_analysis/blob/main/gifs/pi_pat.gif)
+
+Natural constant: Phi.<br>
+![](https://github.com/uli-wizrd/short_NC_analysis/blob/main/gifs/phi_pat.gif)
+
+
+2.- Average gap size and standard deviation evolution.<br>
+
+Natural constant: e.<br>
+
+![](https://github.com/uli-wizrd/short_NC_analysis/blob/main/gifs/e_gsavg.gif)
+
+Natural constant: Pi.<br>
+![](https://github.com/uli-wizrd/short_NC_analysis/blob/main/gifs/pi_gsavg.gif)
+
+Natural constant: Phi.<br>
+![](https://github.com/uli-wizrd/short_NC_analysis/blob/main/gifs/phi_gsavg.gif)
+
+3.-Percentage of digits that don't have the XYX pattern and those that do.<br>
+
+Natural constant: e.<br>
+
+![](https://github.com/uli-wizrd/short_NC_analysis/blob/main/gifs/e_prc.gif)
+
+Natural constant: Pi.<br>
+![](https://github.com/uli-wizrd/short_NC_analysis/blob/main/gifs/pi_prc.gif)
+
+Natural constant: Phi.<br>
+![](https://github.com/uli-wizrd/short_NC_analysis/blob/main/gifs/phi_prc.gif)
+
 ## Sharing my findings
 
 Though the following repository and social media I've shared the answers to my initial questions, also I take the time to mention other things one can say and ask about the digits within these sequences.<br>
